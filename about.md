@@ -8,4 +8,7 @@ Media](http://fullscreen.com). You can find me on
 [LinkedIn](http://linkedin.com/in/jonwho) or
 [GitHub](http://github.com/jonwho).
 
-Other than that I'm pretty much just online to cure my boredom.
+Everyday my goal is to cure my boredom. My cures range from video
+games like League of Legends to CS:GO and programming projects. I
+think it's vital to be curious and JavaScript standards change
+everyday so it's hard to stay bored for too long.
