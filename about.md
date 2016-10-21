@@ -2,9 +2,10 @@
 layout: page
 title: About
 ---
+Welcome to my site! I'm Jon and I made a blog to ramble on about
+nothing. I work as a Software Engineer for [Fullscreen
+Media](http://fullscreen.com). You can find me on
+[LinkedIn](http://linkedin.com/in/jonwho) or
+[GitHub](http://github.com/jonwho).
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
-
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
-
-This theme is made by me. You have a nice day. ♥
+Other than that I'm pretty much just online to cure my boredom.
